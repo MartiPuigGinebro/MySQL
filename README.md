@@ -22,7 +22,7 @@ Download ZIP
 
 _Executar amb VM amb MySQL._
 
-## Construit amb 
+## Construït amb 
 
 _Eines usades:_
 
